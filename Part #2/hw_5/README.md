@@ -26,10 +26,10 @@
 Для обучения использовалась nano модель YOLO
 * ##### Результаты обучения на 30 эпохах
 Предсказания на 2 Моне, 1 Мане<br>
-![alt text](test_image2(30epochs).png) ![alt text](test_image0(30epochs).png) ![alt text](test_image1(30epochs).png)
+![alt text](test_image2(30epochs).png)<br> ![alt text](test_image0(30epochs).png)<br> ![alt text](test_image1(30epochs).png)
 * ##### Результаты обучения на 50 эпохах
-2 Monet
-![alt text](test_image0(50epochs).png) ![alt text](test_image1(50epochs).png)
+Предсказания на 2 Моне<br>
+![alt text](test_image0(50epochs).png)<br> ![alt text](test_image1(50epochs).png)
 ## Предсказания модели
 * ##### Результаты
 Похоже, что, переобучение :(
