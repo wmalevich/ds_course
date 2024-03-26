@@ -7,11 +7,11 @@
 * ##### Roboflow
 Для создания кастомного датасета использовался Roboflow
 1. Разметка данных
-2. Препроцессинг
+2. Препроцессинг<br>
 ![preprocessing](<preprocessing.png>)
    * Auto-Orient
    * Resize
-3. Аугментация
+3. Аугментация<br>
 ![augmentation](<augmentation.png>)
     * Flip
     * Brightness ±20% 
