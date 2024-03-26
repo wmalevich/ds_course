@@ -20,7 +20,7 @@
 ![alt text](roboflow_training1.png)
 ![alt text](roboflow_training2.png)
 * ##### Результаты
-![alt text](roboflow_results1.png)
+![alt text](roboflow_results1.png)<br>
 ![alt text](roboflow_results2.png)
 ## Обучение YOLOv5
 Для обучения использовалась nano модель YOLO
