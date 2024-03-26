@@ -25,7 +25,7 @@
 ## Обучение YOLOv5
 Для обучения использовалась nano модель YOLO
 * ##### Результаты обучения на 30 эпохах
-2 Monet, 1 Manet
+Предсказания на 2 Моне, 1 Мане<br>
 ![alt text](test_image2(30epochs).png) ![alt text](test_image0(30epochs).png) ![alt text](test_image1(30epochs).png)
 * ##### Результаты обучения на 50 эпохах
 2 Monet
